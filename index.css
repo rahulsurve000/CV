@@ -1,0 +1,59 @@
+img {
+    position: relative;
+    left: 350px;
+    border-radius: 120px;
+    padding: 10px 7px;
+    margin: 4px 8px;
+}
+
+body {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    display: block;
+    margin: auto;
+    width: 57%;
+    height: 100%;
+    border: 7px solid rgb(56, 48, 48);
+}
+
+table,
+td,
+th {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #dddd;
+}
+
+footer {
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.prog-skills {
+    display: flex;
+    align-content: flex-start;
+}
+
+li {
+    padding: 14px 39px;
+}
+
+.container {
+    background: grey;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    position: relative;
+    left: 11px;
+    display: block;
+    width: 25%;
+}
